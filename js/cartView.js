@@ -1,5 +1,6 @@
 /*
-    createCartView()
+    Kyle Peterson
+	createCartView()
 
     Creates a view for the whole shopping cart, using TemplateListView
     as the prototype. It overrides the render() function to update the

@@ -1,4 +1,5 @@
 /*
+    Kyle Peterson
     ListModel
 
     Basic model representing an array of model objects. Provides

@@ -1,5 +1,6 @@
 /*
-    createCartModel()
+    Kyle Peterson
+	createCartModel()
 
     Creates a model for the shopping cart. This uses the ListModel
     as the prototype, but adds a few specific methods.
